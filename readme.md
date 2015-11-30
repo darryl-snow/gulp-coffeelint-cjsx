@@ -5,17 +5,17 @@
 
 ## Usage
 
-First, install `gulp-coffeelint` as a development dependency:
+First, install `gulp-coffeelint-cjsx` as a development dependency:
 
 ```shell
-npm install --save-dev gulp-coffeelint
+npm install --save-dev gulp-coffeelint-cjsx
 ```
 
 Then, add it to your `gulpfile.js`:
 
 ```javascript
 var gulp = require('gulp');
-var coffeelint = require('gulp-coffeelint');
+var coffeelint = require('gulp-coffeelint-cjsx');
 
 gulp.task('lint', function () {
     gulp.src('./src/*.coffee')
