@@ -1,6 +1,6 @@
 {
   "name": "gulp-coffeelint-cjsx",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Lint your CoffeeScript/CJSX using gulp and CoffeeLint",
   "keywords": [
     "gulpplugin",
@@ -14,7 +14,7 @@
     "coffeelint-cjsx",
     "codeconventions"
   ],
-  "repository": "janraasch/gulp-coffeelint-cjsx",
+  "repository": "darryl-snow/gulp-coffeelint-cjsx",
   "author": {
     "name": "Willem Bult"
   },
